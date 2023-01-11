@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Modificadores
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            //Homem h = new Homem();
+            //h.nome = "";
+            //h.idade = 0;
+        }
+    }
+}
